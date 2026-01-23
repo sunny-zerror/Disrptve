@@ -17,7 +17,7 @@ const OrganizationSchema = () => {
       "We build brands that earn attention back, with interest. Full-service marketing agency specializing in brand strategy, digital marketing & creative excellence.",
     sameAs: [
       "https://www.linkedin.com/company/disrptve/",
-      "https://www.instagram.com/bedisrptve?igsh=MWw3enZqcWZnYmZkbQ==",
+      "https://www.instagram.com/be.disrptve?igsh=MW5pN3IwcXRncDU4MQ==",
     ],
     contactPoint: [
       {

@@ -17,7 +17,7 @@ const menuItems = [
 ];
 
 const socailLinks = [
-  { name: "instagram", href: "https://www.instagram.com/bedisrptve?igsh=MWw3enZqcWZnYmZkbQ==" },
+  { name: "instagram", href: "https://www.instagram.com/be.disrptve?igsh=MW5pN3IwcXRncDU4MQ==" },
   { name: "linkedin", href: "https://www.linkedin.com/company/disrptve/" },
 ]
 

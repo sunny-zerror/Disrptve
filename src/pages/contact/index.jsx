@@ -65,7 +65,7 @@ const Contact = () => {
                 <div className=" mb-20">
                   <h3 className=' mb-2 text-base lg:text-xl uppercase  opacity-70'>socials</h3>
                   <div className="flex gap-4">
-                    <a title="link" href="https://www.instagram.com/bedisrptve?igsh=MWw3enZqcWZnYmZkbQ==" target="_blank" >
+                    <a title="link" href="https://www.instagram.com/be.disrptve?igsh=MW5pN3IwcXRncDU4MQ==" target="_blank" >
                       <div className="  size-12 group hover:bg-[#D70000] transition-all duration-300 cursor-pointer rounded-full border border-white/20 center">
                         <RiInstagramLine size={20} className='group-hover:opacity-0 transition-all duration-300  ' />
                         <RiInstagramFill size={20} className='absolute group-hover:opacity-100 text-[#000000] opacity-0 transition-all duration-300  ' />
